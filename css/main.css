@@ -40,7 +40,7 @@ body {
 }
 .slide.active {
     opacity: 10;
-    flex: 6;
+    flex: 15;
     box-shadow: #111 1px 10px 50px;
 }
 .slide.active h3 {
