@@ -10,5 +10,4 @@ function clearActive() {
     slides.forEach((slide) => {
         slide.classList.remove('active')
     })
-    
 }
